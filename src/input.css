@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+sub{
+    font-size: 10px;
+    font-weight: 200;
+}
